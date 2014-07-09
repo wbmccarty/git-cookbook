@@ -1,0 +1,7 @@
+name "git"
+version "0.1.0"
+
+driver:
+    name: vagrant
+    customize:
+    memory: 1024

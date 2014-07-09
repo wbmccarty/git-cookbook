@@ -1,0 +1,4 @@
+package "git"
+package "gnome-desktop-environment"
+
+log "So, how did it go?"
